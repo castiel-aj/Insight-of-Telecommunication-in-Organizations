@@ -8,7 +8,7 @@ The second course, "CyberTalents Certified Threat Hunter," sounds even more thri
 
 I can't wait to explore these courses, take on challenges, and share my progress with you all. Join me on this cybersecurity adventure, and together, we'll become skilled defenders of the digital world! Let's go! 🚀💻🔒
 
-follow me on my Hacking Journey blog here : https://blackcybersec.xyz
+follow me on my Hacking Journey blog here: https://blackcybersec.xyz
 
 
 ## Certified SOC ANALYST
