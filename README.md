@@ -15,8 +15,5 @@
 
 
 
-  - رابط تحميل الملف:    (لا تنسوني من الدعاء بحال الإستفادة من المعلومات)
-
-
-https://drive.google.com/file/d/1yqFVTNcYJpqzxUrwAT5JbJARlaZcbTDS/view?usp=sharing
+  - رابط تحميل الملف: https://drive.google.com/file/d/1yqFVTNcYJpqzxUrwAT5JbJARlaZcbTDS/view?usp=sharing
 
